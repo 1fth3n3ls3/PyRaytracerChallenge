@@ -1,8 +1,0 @@
-README.md
-setup.py
-src/PyRatracerChallenge.egg-info/PKG-INFO
-src/PyRatracerChallenge.egg-info/SOURCES.txt
-src/PyRatracerChallenge.egg-info/dependency_links.txt
-src/PyRatracerChallenge.egg-info/top_level.txt
-src/core/__init__.py
-src/core/rt_tuple.py
