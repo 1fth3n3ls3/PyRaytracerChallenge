@@ -8,6 +8,4 @@ class RtTuple(object):
         self.w = w
 
     def is_vector(self):
-        if self.w != 1.0:
-            return False
-        return True
+        return self.w == 1.0
